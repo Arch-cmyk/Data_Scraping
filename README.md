@@ -1,2 +1,8 @@
-# Data_Scraping
-Data Scraping is also known as web scraping, it is the process of importing data from website to a spreadsheet or a local file on your PC. It's useful for PR purposes, advertising, scraped data can be many ways like to combine data from different websources into a single entity and reaching out to target audience based on the data acquired.
+## ```Data-Scraping```
+ 
+Data scraping, also known as web scraping, is the process of importing information from a website into a spreadsheet or local file saved on your computer. It's one of the most efficient ways to get data from the web, and in some cases to channel that data to another website.
+
+
+You can read more about its applications [here](https://www.targetinternet.com/what-is-data-scraping-and-how-can-you-use-it/).
+ 
+ 
